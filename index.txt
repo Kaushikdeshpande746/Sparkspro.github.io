@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sankalp Foundation</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="Main">
+                <div class="logo">
+                    <img src="logo.jpg">
+                </div>
+                <ul>
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="https://www.sathsankalp.org/about-us/brief-history/">About</a></li>
+                    <li><a href="https://www.justdial.com/Hyderabad/Sankalp-Foundation-Near-Chanda-Nagar-Railway-Station-Chanda-Nagar/040PXX40-XX40-101025234350-U6F9_BZDET?xid=SHlkZXJhYmFkIENoYXJpdGFibGUgVHJ1c3Rz">Contact</a></li>
+                    <li><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HPONR3AQNiLz5n" async> </script> </form></li>
+                </ul>
+            </div>
+            <div class="title">
+                <h1>Sankalp Foundation</h1>
+            </div>
+            <div class="button">
+                <a href="https://www.youtube.com/watch?v=X90r2iDqjvM">WATCH VIDEO</a>
+                <a href="https://www.sathsankalp.org/about-us/vision-mission/" class="btn">LEARN MORE</a>
+            </div>
+        </header>
+    </body>
+</html>
